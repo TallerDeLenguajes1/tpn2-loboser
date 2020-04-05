@@ -1,0 +1,2 @@
+	¿Puede ver el archivo tp2_1_2.cpp? ¿Por qué?
+No, porque esta agregado al branch "Opcion_2" y nosotros no acabamos de posicionar en el branch "master" que es uno diferente.
