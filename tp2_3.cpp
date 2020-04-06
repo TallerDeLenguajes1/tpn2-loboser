@@ -37,7 +37,7 @@ int main(){
             }  
         }
         printf("Fila %d: %d\n",f + 1,aux);
-        vd[f] = aux;
+        vd[f] = aux;    //Rellenado del vector dinamico
     }
 
     printf("\nVector Dinamico:\n\n");
