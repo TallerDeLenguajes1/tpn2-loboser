@@ -7,8 +7,7 @@
 int vd[filas];
 
 int main(){
-    time_t t;
-    srand((unsigned) time(&t));
+    srand(time(NULL));  //Para randomizar cada vez que el programa se ejecuta
 
     int f,c,aux = 0;
     int columnas = rand() % 15 + 5; //Randomizo un numero que sera la cantidad de columnas que tendrá entre 5-15
